@@ -20,26 +20,26 @@ Sample Superstore Sales Dataset
 ## Project Output
 
 ### Top 10 Products by Sales
-![Top Products](fig1.png)
+![Top Products](top_products.png)
 
 ### Region-wise Sales
-![Region Sales](fig2.png)
+![Region Sales](region_sales.png)
 
 ### Profit by Category
-![Category Profit](fig3.png)
+![Category Profit](category_profit.png)
 
 ### Sales by Ship Mode
-![Ship Mode Sales](fig4.png)
+![Ship Mode Sales](shipmode_sales.png)
 
 ## How to Run
 
 ### 1. Install required libraries
-```bash id="vly2u5"
+```bash
 pip install pandas matplotlib
 ```
 
 ### 2. Run the project
-```bash id="2vggjt"
+```bash
 py analysis.py
 ```
 
