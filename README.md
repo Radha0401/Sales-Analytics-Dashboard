@@ -20,16 +20,16 @@ Sample Superstore Sales Dataset
 ## Project Output
 
 ### Top 10 Products by Sales
-![Top Products](top_products.png)
+![Top Products](charts/top_products.png)
 
 ### Region-wise Sales
-![Region Sales](region_sales.png)
+![Region Sales](charts/region_sales.png)
 
 ### Profit by Category
-![Category Profit](category_profit.png)
+![Category Profit](charts/category_profit.png)
 
 ### Sales by Ship Mode
-![Ship Mode Sales](shipmode_sales.png)
+![Ship Mode Sales](charts/shipmode_sales.png)
 
 ## How to Run
 
