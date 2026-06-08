@@ -18,21 +18,30 @@ This project analyzes retail sales data using Python and visualizes important bu
 Sample Superstore Sales Dataset
 
 ## Project Output
-The project generates:
-- Bar Charts
-- Pie Charts
-- Sales Insights
-- Profit Analysis
+
+### Top 10 Products by Sales
+![Top Products](fig1.png)
+
+### Region-wise Sales
+![Region Sales](fig2.png)
+
+### Profit by Category
+![Category Profit](fig3.png)
+
+### Sales by Ship Mode
+![Ship Mode Sales](fig4.png)
 
 ## How to Run
 
-1. Install required libraries
-
+### 1. Install required libraries
+```bash id="vly2u5"
 pip install pandas matplotlib
+```
 
-2. Run the project
-
+### 2. Run the project
+```bash id="2vggjt"
 py analysis.py
+```
 
 ## Author
 Radha Yadav
